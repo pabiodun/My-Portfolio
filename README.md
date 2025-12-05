@@ -72,8 +72,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Alex Smith</h1>
-      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+      <h1>Paul Abiodun</h1>
+      <p>I'm <span class="typed" data-typed-items="IT Specialist, Designer, Developer, Freelancer"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -93,7 +93,7 @@
             <img src="profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>UI/UX Designer &amp; Web Developer.</h3>
+            <h3>IT Specialist &amp; Web Developer.</h3>
             <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
