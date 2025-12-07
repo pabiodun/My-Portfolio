@@ -628,7 +628,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
                 <p>+44 (0) 772 150 2616</p>
               </div>
 
-              <iframe>
+              <iframe
                     src="https://www.google.com/maps/embed?pb=!…some_long_code…" 
                     width="600" 
                     height="450" 
