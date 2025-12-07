@@ -45,7 +45,7 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="Profile1.jpg" alt="" class="img-fluid rounded-circle">
+        <img src="Passport 1.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Paul Abiodun</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -73,7 +73,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Paul Abiodun</h1>
-      <p>I'm <span class="typed" data-typed-items="IT Specialist, Designer, Developer, Freelancer"></span></p>
+      <p>I'm <span class="typed" data-typed-items="Designer, IT Specialist, Developer, Freelancer"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -85,40 +85,44 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I’m a multi-skilled Designer, IT Specialist, Developer, and Freelancer who enjoys creating modern visuals, building practical digital solutions, and solving technical challenges. I combine creativity with problem-solving to design interfaces, develop websites and tools, and keep technology running smoothly.
+
+I focus on clear communication, reliable work, and bringing ideas to life through smart, simple, and effective solutions.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="profile-img.jpg" class="img-fluid" alt="">
+            <img src="Profile1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>IT Specialist &amp; Web Developer.</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              I’m a versatile  Developer, and IT Specialist who creates clean designs, 
+              builds functional digital solutions, and solves technical challenges with reliability and creativity.
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>26 Nov 1986</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+44 772 150 2616</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Liverpool, UK</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>39</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bsc</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>paulaxcity@yahoo.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              Every project is an opportunity to learn, 
+              solve problems, and create something meaningful. I’m always exploring new tools, 
+              technologies, and ideas to improve my craft and push my work forward. If you’re looking for someone who 
+              can design, build, optimize, and support your digital projects, I’d love to help bring your vision to life.
             </p>
           </div>
         </div>
@@ -132,7 +136,8 @@
 
         <div class="section-title">
           <h2>Facts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I’ve worked with many happy clients, delivering reliable, high-quality solutions across different industries.
+            🕒 I provide ongoing support with fast responses to maintenance, troubleshooting, and updates.</p>
         </div>
 
         <div class="row no-gutters">
@@ -140,8 +145,8 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
+              <span data-purecounter-start="0" data-purecounter-end="302" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Happy Clients</strong> Thank you</p>
             </div>
           </div>
 
@@ -149,23 +154,23 @@
             <div class="count-box">
               <i class="bi bi-journal-richtext"></i>
               <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+              <p><strong>Projects</strong> Overall</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="count-box">
               <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+              <span data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hours Of Support</strong> Per week</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="count-box">
               <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hard Workers</strong> On request</p>
             </div>
           </div>
 
@@ -180,7 +185,10 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I handle system administration, technical support, and network management with a focus on stability and 
+            security. I’m skilled in troubleshooting hardware and software issues, configuring cloud services, 
+            managing databases, and automating routine tasks. I combine strong problem-solving 
+            abilities with practical experience to keep systems running smoothly and efficiently.</p>
         </div>
 
         <div class="row skills-content">
@@ -188,21 +196,21 @@
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">Problem-Solving <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
+              <span class="skill">Technical Support <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <span class="skill">System Administration <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -213,23 +221,23 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
             <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
+              <span class="skill">Software Deployment <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">Cloud Services <i class="val">55%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <span class="skill">Web Development <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -246,58 +254,77 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I am an IT Specialist and Web Developer with a strong focus on creating reliable, efficient, 
+            and user-friendly digital solutions. I combine hands-on technical support and system management 
+            skills with modern web development experience to build and maintain secure, high-performing projects. 
+            I’m dedicated to solving problems, improving workflows, and delivering clean, professional results for clients and teams.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Alex Smith</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <h4>Paul Abiodun</h4>
+              <p><em> A dedicated IT Specialist and Web Developer with a strong passion for technology, problem-solving, 
+                      and building practical digital solutions. My experience includes managing systems, providing technical support, 
+                      and developing modern, responsive websites. I enjoy creating clean, efficient tools that help people work smarter 
+                      and stay secure. With a focus on reliability, clear communication, and continuous learning, 
+                      I aim to deliver high-quality results and contribute to a smooth, well-supported tech environment.</em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>Stonedale Crescent, Liverpool</li>
+                <li>+44 (0) 772-150-2616</li>
+                <li>paulaxcity@yahoo.com</li>
               </ul>
             </div>
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Bachelor of Science &amp; Information Technology</h4>
+              <h5>2017 - 2020</h5>
+              <p><em>University of Ibadan, NIG</em></p>
+              <p>Participated in hands-on lab activities involving networking, system setup, and troubleshooting.
+                Worked on team projects developing websites, databases, and small software applications.
+                Engaged in coding exercises, technical workshops, and IT seminars to strengthen practical skills.</p>
             </div>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
+              <h4>Diploma of Computer Engineering</h4>
               <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <p><em>The Federal Polytechnic Ede, NIG</em></p>
+              <p>Participated in laboratory work involving circuit design, microcontrollers, and hardware testing.
+                  Worked on team projects developing embedded systems, prototypes, and simple electronic devices.
+                  Engaged in coding tasks, algorithm exercises, and engineering workshops to build technical skills.</p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>IT SUPPORT SPECIALIST </h4>
+              <h5>2021 - Present</h5>
+              <p><em>INSTIQ, UK & NIG </em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Provide first-line technical support to employees via phone, email, and in person.   </li>
+                <li>Technical Support & AppTester for UBA core banking applications (TME, SRG & ROA) across 
+                    Africa also testing APIs/endpoints. </li>
+                <li>Manage application configurations, deployments, and upgrades, ensuring seamless transitions 
+                  and minimal disruption to users.  </li>
+                <li>Collaborate with development teams to investigate and resolve complex technical 
+                      issues, escalating to higher levels of support when necessary.  </li>
+                <li>Manage user accounts and permissions in Active Directory and other systems.  </li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>IT SUPPORT ENGINEER</h4>
+              <h5>2011 - 2021</h5>
+              <p><em>Polaris Bank Ltd, Lagos, NIG</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Provide first-line technical support to bank employees, including troubleshooting hardware, 
+                    software, and network issues.  </li>
+                <li>Monitor and manage banking applications and systems, ensuring optimal performance, security, 
+                    and compliance with regulatory requirements. </li>
+                <li>Diagnose and resolve IT-related problems in a timely and efficient manner, minimizing disruption 
+                    to banking operations.</li>
+                <li>Provide training and guidance to bank employees on IT-related topics, including cybersecurity best 
+                    practices and data protection measures.  </li>
               </ul>
             </div>
           </div>
@@ -312,7 +339,8 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I enjoy solving problems, building efficient solutions, and helping people and businesses thrive through technology. 
+            Explore my work to see the projects, skills, and solutions I’ve developed along the way.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -444,8 +472,8 @@
             <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="bi bi-bar-chart"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+            <div class="icon"><i class="bi bi-diagram-3"></i></div>
+            <h4 class="title"><a href="">Network Management</a></h4>
             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
