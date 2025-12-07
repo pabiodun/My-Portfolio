@@ -681,7 +681,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
+        &copy; Copyright <strong><span>2025</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
