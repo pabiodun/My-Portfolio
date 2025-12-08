@@ -368,9 +368,9 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="PTBcs.jpg" class="img-fluid" alt="">
+              <img src="porfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="PTBcs.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="porfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -378,9 +378,9 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="PTBreact.jpg" class="img-fluid" alt="">
+              <img src="porfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="PTBreact.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="porfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
