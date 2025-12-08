@@ -398,9 +398,9 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="PTBreact.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="PTBreact.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
