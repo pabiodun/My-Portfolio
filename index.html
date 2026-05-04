@@ -361,7 +361,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
               <img src="portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -391,7 +391,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
               <img src="portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -401,7 +401,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
               <img src="PTBreact.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="PTBreact.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -421,7 +421,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
               <img src="portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -431,7 +431,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
               <img src="portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -441,7 +441,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
               <img src="portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
