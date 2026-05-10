@@ -52,7 +52,7 @@
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/paul-abiodun-1530791a6" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -104,7 +104,7 @@ I focus on clear communication, reliable work, and bringing ideas to life throug
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>26 Nov 1986</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span> https://pabiodun.github.io/My-Portfolio/</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span> https://pabiodun.github.io/My-Portfolio</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+44 772 150 2616</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Liverpool, UK</span></li>
                 </ul>
